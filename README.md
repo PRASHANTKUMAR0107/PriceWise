@@ -1,20 +1,6 @@
-8
-![image](https://res.cloudinary.com/db670bhmc/image/upload/v1707142191/lycardgg3exjlvv8bwq2.jpg)
-
 # PriceWise: Your Real-time Price Comparison Assistant
 
 Welcome to PriceWise, your go-to platform for real-time price comparison, intelligent product tracking, and insightful price trend analysis. PriceWise empowers users to make informed purchasing decisions by providing a seamless experience for comparing prices across different marketplaces, receiving price drop alerts, and exploring price fluctuation graphs.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Future Aspects](#future-aspects)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
@@ -58,11 +44,6 @@ To get started with PriceWise, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/vaxad/PriceWise.git
-   cd PriceWise
-   ```
-
 2. Install dependencies:
 
    ```bash
@@ -95,32 +76,3 @@ To get started with PriceWise, follow these steps:
    python app.py
    ```
    Visit `http://localhost:3000` in your browser.
-
-## Usage
-
-Explore PriceWise and take advantage of its powerful features:
-
-- Search for any product and compare prices across different marketplaces.
-- Set price thresholds for product alerts through the direct mailing system.
-- Engage with the call-to-action UI for a seamless user experience.
-
-## Future Aspects
-
-Stay tuned for exciting features in future releases:
-
-- Price fluctuation graphs for in-depth analysis.
-- Integration of machine learning for price prediction.
-
-## Contributors
-
-- [Varad Prabhu](https://github.com/vaxad)
-- [Ketan Kumawat](https://github.com/KetanKumavat)
-- [Milind Pithadia](https://github.com/milinD537)
-- [Vikas Maurya](https://github.com/vickypedia-12)
-- [Parshav Dedhia](https://github.com/parshav92)
-
-## License
-
-PriceWise is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-Happy shopping with PriceWise! 🛒💸
